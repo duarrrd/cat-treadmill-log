@@ -1,4 +1,12 @@
-Start time: 19:30:07 - 19/03/24 - End time: 19:30:18 - 19/03/24
+Start time: 20:34:14 - 19/03/24 - End time: 20:34:34 - 19/03/24
 Distance: 0.01 kilometers
-Speed: 4.01 kilometers/hour
+Speed: 2.20 kilometers/hour
+
+Start time: 20:34:34 - 19/03/24 - End time: 20:34:44 - 19/03/24
+Distance: 0.02 kilometers
+Speed: 5.65 kilometers/hour
+
+Start time: 20:34:44 - 19/03/24 - End time: 20:34:56 - 19/03/24
+Distance: 0.00 kilometers
+Speed: 0.94 kilometers/hour
 
