@@ -1,8 +1,7 @@
 # cat-treadmill-log
-Press enter to simulate sensor trigger 
-IF pressed in interval less than 1 second than will not count
-IF pressed in interval more than 10 second will stop record of old run and star new
+Adds new cycle record when sensor trigger yield True 
+To end old recording and start new - it need to add new cycle record that is older than 10 second since last cycle record
 
-![image](https://github.com/duarrrd/cat-treadmill-log/assets/94750857/258ac5e4-fa64-400c-8141-f151d3030985)
+![image](https://github.com/duarrrd/cat-treadmill-log/assets/94750857/34e535f5-139d-4404-a015-bf7ff884cfa7)
 
-![image](https://github.com/duarrrd/cat-treadmill-log/assets/94750857/954cbe22-3481-4bb8-8e1d-9531611a4ec4)
+![image](https://github.com/duarrrd/cat-treadmill-log/assets/94750857/dafb3ee4-6c80-4df6-9991-e3995a4bb343)
